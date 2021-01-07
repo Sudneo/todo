@@ -31,4 +31,3 @@ USER gouser:gouser
 EXPOSE 8000/tcp
 
 ENTRYPOINT ["/usr/local/go/src/todo/todo"]
-
